@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Power Sutra | Releasing your Power within</title>
-    <link>https://talkingpointdocklands.github.io/author/</link>
+    <link>https://talkingpointdocklands.club/author/</link>
     <description>Recent content in Authors on Power Sutra | Releasing your Power within</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 Ronvenar Fusion Consulting Pty Ltd. (https://powsutra.com.au) All Rights Reserved</copyright><atom:link href="https://talkingpointdocklands.github.io/author/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2020 Ronvenar Fusion Consulting Pty Ltd. (https://powsutra.com.au) All Rights Reserved</copyright><atom:link href="https://talkingpointdocklands.club/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>John Doe</title>
-      <link>https://talkingpointdocklands.github.io/author/john-doe/</link>
+      <link>https://talkingpointdocklands.club/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://talkingpointdocklands.github.io/author/john-doe/</guid>
+      <guid>https://talkingpointdocklands.club/author/john-doe/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
     </item>
     
     <item>
       <title>Mark Dinn</title>
-      <link>https://talkingpointdocklands.github.io/author/mark-dinn/</link>
+      <link>https://talkingpointdocklands.club/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://talkingpointdocklands.github.io/author/mark-dinn/</guid>
+      <guid>https://talkingpointdocklands.club/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
     </item>
     
